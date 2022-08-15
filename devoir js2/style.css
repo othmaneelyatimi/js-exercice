@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+  }
+  body{
+    font-family: Roboto,sans-serif;
+  }
+  .container {
+    padding: 15px;
+    background-color: white;
+  }
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: whitesmoke;
+    border: 1px solid #1e1e1e;
+  }
+  
+.register {
+    background-color: blue;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  .red{
+    color: red;
+  }
